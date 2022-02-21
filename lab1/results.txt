@@ -1,0 +1,48 @@
+Expected and Actual Results
+
+Test case 1
+Inputs: 160, 135, 179, 177, 225, 99, 151, 166, 101, 156
+Count: 10
+Sorted: 99, 101, 135, 151, 156, 160, 166, 177, 179, 225
+
+Expected Result:
+Mean: 154.9
+Std Dev: 37.379
+Median: 158
+
+Actual Result:
+Mean: 154.9
+Std Dev: 37.379
+Median: 158
+
+Test case 2
+Inputs: 415, 804, 1031, 597, 330, -74, -31, 80, 279, -27
+Count: 10
+Sorted: -74, -31, -27, 80, 279, 330, 415, 597, 804, 1031
+
+Expected Result:
+Mean: 340.4
+Std Dev: 377.064
+Median: 304.5
+
+Actual Result:
+Mean: 340.4
+Std Dev: 377.064
+Median: 304.5
+
+Test case 3
+Inputs: 129.82, 361.53, 177.91, 71.39, 3.79, 262.72, 46.23
+Count: 7
+Sorted: 3.79, 46.23, 71.39, 129.82, 177.91, 262.72, 361.53
+
+Expected Result:
+Mean: 150.484
+Std Dev: 127.122
+Median: 129.82
+
+Actual Result:
+Mean: 150.484
+Std Dev: 127.122
+Median: 129.82
+
+All test cases passed.
